@@ -5,8 +5,7 @@
     "authors": [
         {
             "name": "author name",
-            "email": "author email",
-            "homepage": "author homepage"
+            "email": "author email"
         }
     ],
     "homepage": "https://github.com/fatnaydev/erpdashboard",
